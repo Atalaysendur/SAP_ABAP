@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_AS_CLASS1</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Class1</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>BOLME</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Bölme Instance Methodu</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>BOLME</CMPNAME>
+     <SCONAME>SAYI1</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Sayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>BOLME</CMPNAME>
+     <SCONAME>SAYI2</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Sayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>BOLME</CMPNAME>
+     <SCONAME>SONUC</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Sayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>BOLME</CMPNAME>
+     <SCONAME>ZCX_MY_EXCEPTION</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Generic Exception class</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
